@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: f4a0d95d939e537469402bfa555f1b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 635905850305609687
+    second: IceBall-revolve_0
+  - first:
+      213: -8600504768296732837
+    second: IceBall-revolve_1
+  - first:
+      213: 5280235465822366737
+    second: IceBall-revolve_2
+  - first:
+      213: -5165282661553247728
+    second: IceBall-revolve_3
+  - first:
+      213: -677846583204730083
+    second: IceBall-revolve_4
+  - first:
+      213: -982825372984842304
+    second: IceBall-revolve_5
+  - first:
+      213: -4350340591000596588
+    second: IceBall-revolve_6
+  - first:
+      213: 408196050055358635
+    second: IceBall-revolve_7
+  - first:
+      213: 6367275818412933720
+    second: IceBall-revolve_8
+  - first:
+      213: 4826855365201476340
+    second: IceBall-revolve_9
+  - first:
+      213: 8854032177897200872
+    second: IceBall-revolve_10
+  - first:
+      213: -2155969885270246747
+    second: IceBall-revolve_11
+  - first:
+      213: -7214989399332449400
+    second: IceBall-revolve_12
+  - first:
+      213: -3446251680728263786
+    second: IceBall-revolve_13
+  - first:
+      213: -6442768662926569112
+    second: IceBall-revolve_14
+  - first:
+      213: 2282497415508519082
+    second: IceBall-revolve_15
+  - first:
+      213: -5883379937529989883
+    second: IceBall-revolve_16
+  - first:
+      213: -1008148763244572342
+    second: IceBall-revolve_17
+  - first:
+      213: -6198443689886205694
+    second: IceBall-revolve_18
+  - first:
+      213: -5025726487152509199
+    second: IceBall-revolve_19
+  - first:
+      213: -8725316599790156940
+    second: IceBall-revolve_20
+  - first:
+      213: -3499323765408779865
+    second: IceBall-revolve_21
+  - first:
+      213: -2982785845674619922
+    second: IceBall-revolve_22
+  - first:
+      213: 4340393181495442126
+    second: IceBall-revolve_23
+  - first:
+      213: -7108200617296077104
+    second: IceBall-revolve_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceBall-revolve_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1081
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dffe0e600133d800800000000000000
+      internalID: 635905850305609687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1080
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57be9c0b7ed4a880800000000000000
+      internalID: -8600504768296732837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1078
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ce2c62e2a274940800000000000000
+      internalID: 5280235465822366737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1076
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a62a149ca3158b0800000000000000
+      internalID: -5165282661553247728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_4
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1074
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1baedbbf1ec796f0800000000000000
+      internalID: -677846583204730083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 815
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c76ffec78d4c52f0800000000000000
+      internalID: -982825372984842304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 811
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4275184c70a3c0800000000000000
+      internalID: -4350340591000596588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 807
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8644215243aa500800000000000000
+      internalID: 408196050055358635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_8
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 803
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852007f1f9b1d5850800000000000000
+      internalID: 6367275818412933720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 799
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab501816f6cf240800000000000000
+      internalID: 4826855365201476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 544
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd079ea57dfda70800000000000000
+      internalID: 8854032177897200872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 550
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf60aefc47412e0800000000000000
+      internalID: -2155969885270246747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 563
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88394923e553fdb90800000000000000
+      internalID: -7214989399332449400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 579
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693599bfa547c20d0800000000000000
+      internalID: -3446251680728263786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 591
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8615e3c4900b696a0800000000000000
+      internalID: -6442768662926569112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 343
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8e1246e4f0daf10800000000000000
+      internalID: 2282497415508519082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 344
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057dd84e190a5ea0800000000000000
+      internalID: -5883379937529989883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 335
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41de0e8a065202f0800000000000000
+      internalID: -1008148763244572342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_18
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 328
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20932180e44baf9a0800000000000000
+      internalID: -6198443689886205694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 320
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb00b2368014ab0800000000000000
+      internalID: -5025726487152509199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47340bcf7c279e680800000000000000
+      internalID: -8725316599790156940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 58
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13ab85397ef6fc0800000000000000
+      internalID: -3499323765408779865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 57
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb408ba3140b96d0800000000000000
+      internalID: -2982785845674619922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 57
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca30982a9c2c3c30800000000000000
+      internalID: 4340393181495442126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBall-revolve_24
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 57
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dedadd03399a5d90800000000000000
+      internalID: -7108200617296077104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceBall-revolve_0: 635905850305609687
+      IceBall-revolve_1: -8600504768296732837
+      IceBall-revolve_10: 8854032177897200872
+      IceBall-revolve_11: -2155969885270246747
+      IceBall-revolve_12: -7214989399332449400
+      IceBall-revolve_13: -3446251680728263786
+      IceBall-revolve_14: -6442768662926569112
+      IceBall-revolve_15: 2282497415508519082
+      IceBall-revolve_16: -5883379937529989883
+      IceBall-revolve_17: -1008148763244572342
+      IceBall-revolve_18: -6198443689886205694
+      IceBall-revolve_19: -5025726487152509199
+      IceBall-revolve_2: 5280235465822366737
+      IceBall-revolve_20: -8725316599790156940
+      IceBall-revolve_21: -3499323765408779865
+      IceBall-revolve_22: -2982785845674619922
+      IceBall-revolve_23: 4340393181495442126
+      IceBall-revolve_24: -7108200617296077104
+      IceBall-revolve_3: -5165282661553247728
+      IceBall-revolve_4: -677846583204730083
+      IceBall-revolve_5: -982825372984842304
+      IceBall-revolve_6: -4350340591000596588
+      IceBall-revolve_7: 408196050055358635
+      IceBall-revolve_8: 6367275818412933720
+      IceBall-revolve_9: 4826855365201476340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

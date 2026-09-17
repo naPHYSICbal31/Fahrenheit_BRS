@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2d9103060b3e3547b7acceb438dfa92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5337
+  packageName: Frost Effect
+  packageVersion: 1.1
+  assetPath: Assets/Frost/FrostExampleCamera_smooth.prefab
+  uploadId: 27471

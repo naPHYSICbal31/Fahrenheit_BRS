@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9907b598ebdbb4aa826ffb5a27423d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5337
+  packageName: Frost Effect
+  packageVersion: 1.1
+  assetPath: Assets/Frost/FrostExampleCamera_sharp_TransparentDistortion.prefab
+  uploadId: 27471
